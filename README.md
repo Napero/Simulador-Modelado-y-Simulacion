@@ -74,5 +74,9 @@ python main.py
 ## 👥 Créditos
 
 Desarrollado para el curso de Modelado y Simulación por:
-- Francisco Nappa
-
+- Francisco Eduardo Nappa
+- Rodrigo Alcorta
+- Camila Ibar
+- Matias Rapaport
+- Gabriel Cayo
+- Maximo Rosso
